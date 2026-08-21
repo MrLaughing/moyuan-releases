@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 2,
+  "versionName": "2.0.0",
+  "publishedAt": "2026-08-21T00:00:00Z",
+  "changelog": [
+    "建立公开安装包发布与应用内更新通道"
+  ],
+  "downloadUrls": [],
+  "sha256": "",
+  "sizeBytes": 0
+}
