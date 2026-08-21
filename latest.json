@@ -1,12 +1,16 @@
 {
   "schemaVersion": 1,
-  "versionCode": 2,
-  "versionName": "2.0.0",
-  "publishedAt": "2026-08-21T00:00:00Z",
+  "versionCode": 3,
+  "versionName": "2.1.0",
+  "publishedAt": "2026-08-21T10:27:38Z",
   "changelog": [
-    "建立公开安装包发布与应用内更新通道"
+    "新增“我的 > 检查更新”，支持应用内下载安装包国内 GitHub 代理优先，官方线路自动兜底下载完成后校验 SHA-256，并引导获取未知应用安装权限新增四季主题设置并完善森林界面细节"
   ],
-  "downloadUrls": [],
-  "sha256": "",
-  "sizeBytes": 0
+  "downloadUrls": [
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.0/moyuan-v2.1.0.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.0/moyuan-v2.1.0.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.0/moyuan-v2.1.0.apk"
+  ],
+  "sha256": "a34f5ad07e44268152b8abf1d9000a97ba9f77e61d219dd5f3e1420b8f877dce",
+  "sizeBytes": 34252518
 }
