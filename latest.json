@@ -4,7 +4,10 @@
   "versionName": "2.1.0",
   "publishedAt": "2026-08-21T10:27:38Z",
   "changelog": [
-    "新增“我的 > 检查更新”，支持应用内下载安装包国内 GitHub 代理优先，官方线路自动兜底下载完成后校验 SHA-256，并引导获取未知应用安装权限新增四季主题设置并完善森林界面细节"
+    "新增“我的 > 检查更新”，支持应用内下载安装包",
+    "国内 GitHub 代理优先，官方线路自动兜底",
+    "下载完成后校验 SHA-256，并引导获取未知应用安装权限",
+    "新增四季主题设置并完善森林界面细节"
   ],
   "downloadUrls": [
     "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.0/moyuan-v2.1.0.apk",
