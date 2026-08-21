@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "versionCode": 3,
-  "versionName": "2.1.0",
-  "publishedAt": "2026-08-21T10:27:38Z",
+  "versionCode": 4,
+  "versionName": "2.1.1",
+  "publishedAt": "2026-08-21T16:48:21Z",
   "changelog": [
-    "新增“我的 > 检查更新”，支持应用内下载安装包",
-    "国内 GitHub 代理优先，官方线路自动兜底",
-    "下载完成后校验 SHA-256，并引导获取未知应用安装权限",
-    "新增四季主题设置并完善森林界面细节"
+    "修复发布版检查更新失败",
+    "兼容带 Bearer 前缀的微信读书 API Key",
+    "微信读书 401 明确提示重新授权",
+    "增加国内代理清单回退线路"
   ],
   "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.0/moyuan-v2.1.0.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.0/moyuan-v2.1.0.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.0/moyuan-v2.1.0.apk"
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.1/moyuan-v2.1.1.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.1/moyuan-v2.1.1.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.1/moyuan-v2.1.1.apk"
   ],
-  "sha256": "a34f5ad07e44268152b8abf1d9000a97ba9f77e61d219dd5f3e1420b8f877dce",
-  "sizeBytes": 34252518
+  "sha256": "8cd5d22e73c60448a57bf8c0a7bf4ac7d75eb9cbf27e2fa98c0b27160d69dee8",
+  "sizeBytes": 34257070
 }

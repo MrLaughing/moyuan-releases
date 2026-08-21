@@ -32,7 +32,7 @@
 每个版本的 SHA-256 会写入 `latest.json`。手动下载后可在 PowerShell 中验证：
 
 ```powershell
-Get-FileHash .\moyuan-v2.1.0.apk -Algorithm SHA256
+Get-FileHash .\moyuan-v2.1.1.apk -Algorithm SHA256
 ```
 
 输出应与 `latest.json` 的 `sha256` 完全一致。校验不一致时不要安装，并从 Releases 官方页面重新下载。
@@ -43,7 +43,7 @@ Get-FileHash .\moyuan-v2.1.0.apk -Algorithm SHA256
 1e0daf5da40385fede3420c07c199efe2866e376e6852fb528d1b2c3bb6085a9
 ```
 
-`v2.1.0` 是首个公开发行版，也是首个内置应用更新功能的版本；首次安装或从未公开分发的旧版本迁移时，需要先从 Releases 手动安装一次。
+`v2.1.1` 是当前公开发行版，修复发布版检查更新和微信读书授权兼容问题；首次安装或从未公开分发的旧版本迁移时，需要先从 Releases 手动安装一次。
 
 ## 问题反馈
 
