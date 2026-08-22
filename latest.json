@@ -1,19 +1,19 @@
 {
-  "schemaVersion": 1,
-  "versionCode": 4,
-  "versionName": "2.1.1",
-  "publishedAt": "2026-08-21T16:48:21Z",
-  "changelog": [
-    "修复发布版检查更新失败",
-    "兼容带 Bearer 前缀的微信读书 API Key",
-    "微信读书 401 明确提示重新授权",
-    "增加国内代理清单回退线路"
-  ],
-  "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.1/moyuan-v2.1.1.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.1/moyuan-v2.1.1.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.1/moyuan-v2.1.1.apk"
-  ],
-  "sha256": "8cd5d22e73c60448a57bf8c0a7bf4ac7d75eb9cbf27e2fa98c0b27160d69dee8",
-  "sizeBytes": 34257070
+    "schemaVersion":  1,
+    "versionCode":  5,
+    "versionName":  "2.1.2",
+    "publishedAt":  "2026-08-22T02:34:49Z",
+    "changelog":  [
+                      "修复主题切换时部分图标和背景颜色不跟随主题的问题",
+                      "优化春夏秋冬主题下的资料、同步、更新和弹窗图标",
+                      "未解锁植物统一显示抽象锁定图案，不再泄露真实植物剪影",
+                      "解锁植物继续显示真实植物图案"
+                  ],
+    "downloadUrls":  [
+                         "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.2/moyuan-v2.1.2.apk",
+                         "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.2/moyuan-v2.1.2.apk",
+                         "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.2/moyuan-v2.1.2.apk"
+                     ],
+    "sha256":  "5c405b186416ed5de1bf621b328f2a7569ceda16245d106787eda1925fbfbfe8",
+    "sizeBytes":  34258142
 }
