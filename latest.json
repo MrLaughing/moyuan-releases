@@ -1,18 +1,17 @@
 {
-    "schemaVersion":  1,
-    "versionCode":  7,
-    "versionName":  "2.1.4",
-    "publishedAt":  "2026-08-22T15:31:36Z",
-    "changelog":  [
-                      "修复底部导航胶囊外侧背景不随季节主题即时更新的问题",
-                      "同步按钮、导航栏图标、选中背景和应用根背景统一刷新",
-                      "自动和手动主题切换无需重启应用"
-                  ],
-    "downloadUrls":  [
-                         "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.4/moyuan-v2.1.4.apk",
-                         "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.4/moyuan-v2.1.4.apk",
-                         "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.4/moyuan-v2.1.4.apk"
-                     ],
-    "sha256":  "f3f46280038c59a5a92878c27ae72a9fad462193d091a4606e1d762f83ab4ef2",
-    "sizeBytes":  34258258
+  "schemaVersion": 1,
+  "versionCode": 8,
+  "versionName": "2.1.5",
+  "publishedAt": "2026-08-24T07:42:01Z",
+  "changelog": [
+    "fix seasonal theme refresh",
+    "fix garden watering button and navigation palette refresh"
+  ],
+  "downloadUrls": [
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.5/moyuan-v2.1.5.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.5/moyuan-v2.1.5.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.5/moyuan-v2.1.5.apk"
+  ],
+  "sha256": "720b9d39527b86781ba049a8448d94a52dd200a88b9f59aaceec95c43ef2f3c7",
+  "sizeBytes": 34258494
 }
