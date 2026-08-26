@@ -1,19 +1,18 @@
 {
   "schemaVersion": 1,
-  "versionCode": 9,
-  "versionName": "2.1.6",
-  "publishedAt": "2026-08-26T11:37:47Z",
+  "versionCode": 10,
+  "versionName": "2.1.7",
+  "publishedAt": "2026-08-26T16:11:19Z",
   "changelog": [
-    "天气刷新改为优先获取更精确的实时定位",
-    "完善春夏秋冬主题的全局配色统一",
-    "主题切换改为 Activity 全量重建，确保所有页面控件重新解析主题",
-    "重新设计应用更新授权弹窗，统一墨园视觉风格"
+    "?????????????????",
+    "???????????,?????",
+    "???????????????"
   ],
   "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.6/moyuan-v2.1.6.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.6/moyuan-v2.1.6.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.6/moyuan-v2.1.6.apk"
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk"
   ],
-  "sha256": "9a5192d5c729f63566e33a558ae20b7eef583d69342d0654b84377f162e6c32f",
-  "sizeBytes": 34264038
+  "sha256": "f76a4f7a062a7e9e6c61c721128a0aa9876aec37eee01bc25f0382f51de438ab",
+  "sizeBytes": 34264650
 }
