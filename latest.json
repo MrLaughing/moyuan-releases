@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "versionCode": 9,
   "versionName": "2.1.6",
-  "publishedAt": "2026-08-26T10:56:42Z",
+  "publishedAt": "2026-08-26T11:37:47Z",
   "changelog": [
     "天气刷新改为优先获取更精确的实时定位",
     "完善春夏秋冬主题的全局配色统一",
@@ -14,6 +14,6 @@
     "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.6/moyuan-v2.1.6.apk",
     "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.6/moyuan-v2.1.6.apk"
   ],
-  "sha256": "dc8f84e6e5d73d3b91abed7a7cc879f18a2c4985c311e05d9ca358a0befda740",
+  "sha256": "9a5192d5c729f63566e33a558ae20b7eef583d69342d0654b84377f162e6c32f",
   "sizeBytes": 34264038
 }
