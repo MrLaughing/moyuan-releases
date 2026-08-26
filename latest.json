@@ -1,18 +1,1 @@
-{
-  "schemaVersion": 1,
-  "versionCode": 10,
-  "versionName": "2.1.7",
-  "publishedAt": "2026-08-26T16:11:19Z",
-  "changelog": [
-    "?????????????????",
-    "???????????,?????",
-    "???????????????"
-  ],
-  "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk"
-  ],
-  "sha256": "f76a4f7a062a7e9e6c61c721128a0aa9876aec37eee01bc25f0382f51de438ab",
-  "sizeBytes": 34264650
-}
+{"schemaVersion":1,"versionCode":10,"versionName":"2.1.7","publishedAt":"2026-08-26T16:11:19Z","changelog":["重新设计图鉴中未发现植物的标本卡片","以芽叶标记替代方块问号，占位更自然","未发现状态不再提前展示植物名称"],"downloadUrls":["https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk","https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk","https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk"],"sha256":"f76a4f7a062a7e9e6c61c721128a0aa9876aec37eee01bc25f0382f51de438ab","sizeBytes":34264650}
