@@ -4,10 +4,9 @@
   "versionName": "2.1.9",
   "publishedAt": "2026-08-27T15:03:23Z",
   "changelog": [
-    "天气刷新改为优先获取更精确的实时定位",
-    "完善春夏秋冬主题的全局配色统一",
-    "主题切换改为 Activity 全量重建，确保所有页面控件重新解析主题",
-    "重新设计应用更新授权弹窗，统一墨园视觉风格"
+    "修复：自定义花园移除植物后密度可随实际摆放数量降级",
+    "修复：未收集完全部植物前每种最多放一株，阻止重复放同种",
+    "书案「查看更多」改为跳转微信读书最近阅读的书"
   ],
   "downloadUrls": [
     "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.9/moyuan-v2.1.9.apk",
