@@ -4,9 +4,10 @@
   "versionName": "2.1.7",
   "publishedAt": "2026-08-27T04:07:33Z",
   "changelog": [
-    "重新设计图鉴中未发现植物的标本卡片",
-    "以芽叶标记替代方块问号，占位更自然",
-    "未发现状态不再提前展示植物名称"
+    "未接入微信读书时，花园仅展示初始三株并引导连接",
+    "未发现的植物详情页同步隐藏形态，锁定标本占位",
+    "多云天气换用「晕染留白」水墨云，与应用风格统一",
+    "重新设计图鉴中未发现植物的标本卡片，占位更自然"
   ],
   "downloadUrls": [
     "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk",
