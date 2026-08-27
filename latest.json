@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "versionCode": 10,
-  "versionName": "2.1.7",
-  "publishedAt": "2026-08-27T04:07:33Z",
+  "versionCode": 11,
+  "versionName": "2.1.8",
+  "publishedAt": "2026-08-27T10:27:32Z",
   "changelog": [
-    "未接入微信读书时，花园仅展示初始三株并引导连接",
-    "未发现的植物详情页同步隐藏形态，锁定标本占位",
-    "多云天气换用「晕染留白」水墨云，与应用风格统一",
-    "重新设计图鉴中未发现植物的标本卡片，占位更自然"
+    "天气刷新改为优先获取更精确的实时定位",
+    "完善春夏秋冬主题的全局配色统一",
+    "主题切换改为 Activity 全量重建，确保所有页面控件重新解析主题",
+    "重新设计应用更新授权弹窗，统一墨园视觉风格"
   ],
   "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk"
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.8/moyuan-v2.1.8.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.8/moyuan-v2.1.8.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.8/moyuan-v2.1.8.apk"
   ],
-  "sha256": "13f438e94f079b20b9d2812fe0928cd1a1ecd7e991e86e0789c8d08a211f6975",
-  "sizeBytes": 34269898
+  "sha256": "ff2fb10bccd1bdfe6667a1f0339f59c7665a5a3fd766655063104cc72b58a1f2",
+  "sizeBytes": 34283247
 }
