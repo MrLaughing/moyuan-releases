@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "versionCode": 10,
   "versionName": "2.1.7",
-  "publishedAt": "2026-08-26T16:18:38Z",
+  "publishedAt": "2026-08-27T04:07:33Z",
   "changelog": [
     "重新设计图鉴中未发现植物的标本卡片",
     "以芽叶标记替代方块问号，占位更自然",
@@ -13,6 +13,6 @@
     "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk",
     "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.1.7/moyuan-v2.1.7.apk"
   ],
-  "sha256": "e4efc7762ef5931c7bf927975bf52310824e20701aea6239cd7ff898e2cda5e9",
-  "sizeBytes": 34264650
+  "sha256": "13f438e94f079b20b9d2812fe0928cd1a1ecd7e991e86e0789c8d08a211f6975",
+  "sizeBytes": 34269898
 }
