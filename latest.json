@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "versionCode": 14,
-  "versionName": "2.3.0",
-  "publishedAt": "2026-08-28T07:08:51Z",
+  "versionCode": 15,
+  "versionName": "2.4.0",
+  "publishedAt": "2026-08-28T07:54:27Z",
   "changelog": [],
   "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.3.0/moyuan-v2.3.0.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.3.0/moyuan-v2.3.0.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.3.0/moyuan-v2.3.0.apk"
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.4.0/moyuan-v2.4.0.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.4.0/moyuan-v2.4.0.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.4.0/moyuan-v2.4.0.apk"
   ],
-  "sha256": "581c6f82bc6991eb1ee9cee72353afa2e061476a8e7cf5f81bc33df479a6ff94",
-  "sizeBytes": 34351059
+  "sha256": "81abdc00612aff20da872eea812a5454375f28c99f099eaca3c3373ee98d05d2",
+  "sizeBytes": 34353283
 }
