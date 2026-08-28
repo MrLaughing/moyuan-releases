@@ -4,10 +4,10 @@
   "versionName": "2.2.0",
   "publishedAt": "2026-08-28T02:34:44Z",
   "changelog": [
-    "天气刷新改为优先获取更精确的实时定位",
-    "完善春夏秋冬主题的全局配色统一",
-    "主题切换改为 Activity 全量重建，确保所有页面控件重新解析主题",
-    "重新设计应用更新授权弹窗，统一墨园视觉风格"
+    "新增：微信读书账号变更检测，换账号可一键清空重建，避免新旧账号数据混合",
+    "图鉴植物卡片按发现顺序排序",
+    "修复：检查更新说明不再被 CDN 缓存污染，APK 下载仍走加速代理",
+    "关于墨园弹窗左上角改用应用图标"
   ],
   "downloadUrls": [
     "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.2.0/moyuan-v2.2.0.apk",
