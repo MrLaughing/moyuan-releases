@@ -1,18 +1,14 @@
 {
   "schemaVersion": 1,
-  "versionCode": 15,
-  "versionName": "2.4.0",
-  "publishedAt": "2026-08-28T07:54:27Z",
-  "changelog": [
-    "切栏自动刷新：花园栏切换进入自动同步阅读数据（10 分钟限频）、书案栏本地统计即时重算",
-    "「我的」页代表植物签名显示「植物名-发现日期」",
-    "关于墨园功能说明 / 用户协议 / 隐私政策内容全面扩充"
-  ],
+  "versionCode": 16,
+  "versionName": "2.5.0",
+  "publishedAt": "2026-08-28T09:54:46Z",
+  "changelog": [],
   "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.4.0/moyuan-v2.4.0.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.4.0/moyuan-v2.4.0.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.4.0/moyuan-v2.4.0.apk"
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.5.0/moyuan-v2.5.0.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.5.0/moyuan-v2.5.0.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.5.0/moyuan-v2.5.0.apk"
   ],
-  "sha256": "81abdc00612aff20da872eea812a5454375f28c99f099eaca3c3373ee98d05d2",
-  "sizeBytes": 34353283
+  "sha256": "a0436df5a8d1549f07b8f292e8845ecb1f80d12c9cc54ad0872bb44338aecb34",
+  "sizeBytes": 34209002
 }
