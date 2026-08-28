@@ -1,19 +1,14 @@
 {
   "schemaVersion": 1,
-  "versionCode": 13,
-  "versionName": "2.2.0",
-  "publishedAt": "2026-08-28T02:34:44Z",
-  "changelog": [
-    "新增：微信读书账号变更检测，换账号可一键清空重建，避免新旧账号数据混合",
-    "图鉴植物卡片按发现顺序排序",
-    "修复：检查更新说明不再被 CDN 缓存污染，APK 下载仍走加速代理",
-    "关于墨园弹窗左上角改用应用图标"
-  ],
+  "versionCode": 14,
+  "versionName": "2.3.0",
+  "publishedAt": "2026-08-28T07:08:51Z",
+  "changelog": [],
   "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.2.0/moyuan-v2.2.0.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.2.0/moyuan-v2.2.0.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.2.0/moyuan-v2.2.0.apk"
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.3.0/moyuan-v2.3.0.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.3.0/moyuan-v2.3.0.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.3.0/moyuan-v2.3.0.apk"
   ],
-  "sha256": "d94ace81adba83b4d85da5503bae061dfcc65ac710fcaa25163a8b6af36740f1",
-  "sizeBytes": 34292695
+  "sha256": "581c6f82bc6991eb1ee9cee72353afa2e061476a8e7cf5f81bc33df479a6ff94",
+  "sizeBytes": 34351059
 }
