@@ -3,7 +3,11 @@
   "versionCode": 16,
   "versionName": "2.5.0",
   "publishedAt": "2026-08-28T09:54:46Z",
-  "changelog": [],
+  "changelog": [
+    "应用图标重设计为 2.5D 立体效果（保持破土发芽形象，扁平矢量升级为渐变体积感）",
+    "土堆去尖角改圆弧端点、顶部叶片下移、叶尖圆润化",
+    "清理 20 个未被引用的旧图标位图，APK 体积优化"
+  ],
   "downloadUrls": [
     "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.5.0/moyuan-v2.5.0.apk",
     "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.5.0/moyuan-v2.5.0.apk",
