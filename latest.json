@@ -3,7 +3,11 @@
   "versionCode": 15,
   "versionName": "2.4.0",
   "publishedAt": "2026-08-28T07:54:27Z",
-  "changelog": [],
+  "changelog": [
+    "切栏自动刷新：花园栏切换进入自动同步阅读数据（10 分钟限频）、书案栏本地统计即时重算",
+    "「我的」页代表植物签名显示「植物名-发现日期」",
+    "关于墨园功能说明 / 用户协议 / 隐私政策内容全面扩充"
+  ],
   "downloadUrls": [
     "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.4.0/moyuan-v2.4.0.apk",
     "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.4.0/moyuan-v2.4.0.apk",
