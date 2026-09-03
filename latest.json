@@ -1,19 +1,16 @@
 {
   "schemaVersion": 1,
-  "versionCode": 17,
-  "versionName": "2.6.0",
-  "publishedAt": "2026-09-02T10:10:50Z",
+  "versionCode": 18,
+  "versionName": "2.7.0",
+  "publishedAt": "2026-09-03T06:08:57Z",
   "changelog": [
-    "重设计「草木为何淡了颜色」休眠说明弹窗，样式对齐花园整体设计语言",
-    "新增四级时间轴，直观呈现枝叶如常、微眠、渐淡、沉眠的渐变过程",
-    "新增安抚提示：颜色变淡不影响植物与图鉴数据，重新浇灌即可复原",
-    "弹窗改用圆形应用图标作为视觉标识"
+    "优化花园菱形排布的层间间距，前后排衔接更自然、整体更舒展（对齐 iOS 排布参数）"
   ],
   "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.6.0/moyuan-v2.6.0.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.6.0/moyuan-v2.6.0.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.6.0/moyuan-v2.6.0.apk"
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.0/moyuan-v2.7.0.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.0/moyuan-v2.7.0.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.0/moyuan-v2.7.0.apk"
   ],
-  "sha256": "123b29505998dae490e5b29ff192472194dd2d333bb577b13acc515dbf52e603",
-  "sizeBytes": 34218750
+  "sha256": "4e31ca2d1a0345732ec10efcf54d44f67a57f148b431d0c6a47c71a0b3d1ff3f",
+  "sizeBytes": 34217685
 }
