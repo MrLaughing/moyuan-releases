@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "versionCode": 19,
-  "versionName": "2.7.1",
-  "publishedAt": "2026-09-03T08:21:02Z",
+  "versionCode": 20,
+  "versionName": "2.7.2",
+  "publishedAt": "2026-09-03T17:33:29Z",
   "changelog": [
-    "修复：浇水时顺带补写本周前几天缺失的阅读记录，漏同步造成的花园解锁与书案累计滞后更快归正",
-    "说明：全程零额外网络请求，行值已最新则自动跳过"
+    "新增公众号二维码长按保存到相册：Android 10+ 免权限写入系统图库；Android 9 及以下首次需要存储授权",
+    "弹窗提示文案改为「长按微信扫一扫·关注·冀缘巧豫」，与可保存的交互明确对应"
   ],
   "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.1/moyuan-v2.7.1.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.1/moyuan-v2.7.1.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.1/moyuan-v2.7.1.apk"
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.2/moyuan-v2.7.2.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.2/moyuan-v2.7.2.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.2/moyuan-v2.7.2.apk"
   ],
-  "sha256": "ee5f3b664da8e07d5311e207cb9f136dc1d07677c79aef08158f257ec0964af2",
-  "sizeBytes": 34218377
+  "sha256": "553d092b8735724810d86e1cce22d905416bae01ed4c657fea910e457cb1f784",
+  "sizeBytes": 34219625
 }
