@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
-  "versionCode": 18,
-  "versionName": "2.7.0",
-  "publishedAt": "2026-09-03T06:08:57Z",
+  "versionCode": 19,
+  "versionName": "2.7.1",
+  "publishedAt": "2026-09-03T08:21:02Z",
   "changelog": [
-    "优化花园菱形排布的层间间距，前后排衔接更自然、整体更舒展（对齐 iOS 排布参数）"
+    "修复：浇水时顺带补写本周前几天缺失的阅读记录，漏同步造成的花园解锁与书案累计滞后更快归正",
+    "说明：全程零额外网络请求，行值已最新则自动跳过"
   ],
   "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.0/moyuan-v2.7.0.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.0/moyuan-v2.7.0.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.0/moyuan-v2.7.0.apk"
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.1/moyuan-v2.7.1.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.1/moyuan-v2.7.1.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.1/moyuan-v2.7.1.apk"
   ],
-  "sha256": "4e31ca2d1a0345732ec10efcf54d44f67a57f148b431d0c6a47c71a0b3d1ff3f",
-  "sizeBytes": 34217685
+  "sha256": "ee5f3b664da8e07d5311e207cb9f136dc1d07677c79aef08158f257ec0964af2",
+  "sizeBytes": 34218377
 }
