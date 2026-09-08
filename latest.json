@@ -1,17 +1,18 @@
 {
   "schemaVersion": 1,
-  "versionCode": 21,
-  "versionName": "2.7.3",
-  "publishedAt": "2026-09-08T00:41:50Z",
+  "versionCode": 22,
+  "versionName": "2.7.4",
+  "publishedAt": "2026-09-08T08:22:29Z",
   "changelog": [
-    "天气刷新提示带上当前城市名，点击花园右上方天气时显示「正在刷新XX天气...」",
-    "城市名取自和风天气定位结果，零额外网络请求；首次刷新后缓存，后续点击即时显示"
+    "修复和风天气在正式包中从未生效的问题，天气数据不再静默回退",
+    "天气刷新提示的城市名在和风不可用时也能正常显示",
+    "凭据缺失时改为显式告警，避免问题被隐藏"
   ],
   "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.3/moyuan-v2.7.3.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.3/moyuan-v2.7.3.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.3/moyuan-v2.7.3.apk"
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.4/moyuan-v2.7.4.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.4/moyuan-v2.7.4.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.4/moyuan-v2.7.4.apk"
   ],
-  "sha256": "5ff608de7a4d2e41958974a609e6f406d84d46fb0195b49a8441fbba3f24b840",
-  "sizeBytes": 34219933
+  "sha256": "de907d24498d3e312ef4d7dd3b6e9f3d29a03c92f73bb4bd99a642ffbe9216ac",
+  "sizeBytes": 34220397
 }
