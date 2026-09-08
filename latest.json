@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "versionCode": 20,
-  "versionName": "2.7.2",
-  "publishedAt": "2026-09-03T17:33:29Z",
+  "versionCode": 21,
+  "versionName": "2.7.3",
+  "publishedAt": "2026-09-08T00:41:50Z",
   "changelog": [
-    "新增公众号二维码长按保存到相册：Android 10+ 免权限写入系统图库；Android 9 及以下首次需要存储授权",
-    "弹窗提示文案改为「长按微信扫一扫·关注·冀缘巧豫」，与可保存的交互明确对应"
+    "天气刷新提示带上当前城市名，点击花园右上方天气时显示「正在刷新XX天气...」",
+    "城市名取自和风天气定位结果，零额外网络请求；首次刷新后缓存，后续点击即时显示"
   ],
   "downloadUrls": [
-    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.2/moyuan-v2.7.2.apk",
-    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.2/moyuan-v2.7.2.apk",
-    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.2/moyuan-v2.7.2.apk"
+    "https://ghfast.top/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.3/moyuan-v2.7.3.apk",
+    "https://gh-proxy.com/https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.3/moyuan-v2.7.3.apk",
+    "https://github.com/MrLaughing/moyuan-releases/releases/download/v2.7.3/moyuan-v2.7.3.apk"
   ],
-  "sha256": "553d092b8735724810d86e1cce22d905416bae01ed4c657fea910e457cb1f784",
-  "sizeBytes": 34219625
+  "sha256": "5ff608de7a4d2e41958974a609e6f406d84d46fb0195b49a8441fbba3f24b840",
+  "sizeBytes": 34219933
 }
